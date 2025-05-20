@@ -1,2 +1,2 @@
 # HTML-Project
-My HTML Prokect
+My HTML Project
